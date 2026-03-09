@@ -9,6 +9,9 @@
 - Data Structures & Algorithms
 - Python
 - SQL
+- Machine Leraning
+- MATLAB
+- Numpy
 - React
 - FastAPI
 
