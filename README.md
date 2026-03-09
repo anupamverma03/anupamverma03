@@ -1,4 +1,4 @@
-## Hi 👋 I'm Anupam Verma
+# Hi 👋 I'm Anupam Verma
 
 🎓 MTech Student at NIT  Nagpur
 💻 Interested in Software Development  
