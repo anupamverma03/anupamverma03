@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Anupam Verma
+
+🎓 MTech Student at NIT  Nagpur
+💻 Interested in Software Development  
+🚀 Currently building a Coding Tracker project
+
+## Skills
+- C++
+- Data Structures & Algorithms
+- Python
+- SQL
+- React
+- FastAPI
+
+## Projects
+- Coding Tracker (React + FastAPI)
+- Real Time Face Detection system for Edge Devices
+
+## Contact
+- GitHub: https://github.com/anupamverma
+- X: https://x.com/Anupam__Verma
 
 <!--
 **anupamverma03/anupamverma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
