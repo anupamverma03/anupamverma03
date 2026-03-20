@@ -18,6 +18,7 @@
 ## Projects
 - Coding Tracker (React + FastAPI)
 - Real-Time Face Detection System for Edge Devices
+- URL Shortner Service
 
 ## Contact
 - GitHub: https://github.com/anupamverma
